@@ -1,0 +1,54 @@
+\mathbf{Overview Gielen notes content}
+
+Analysis of Neural Excitability and Oscillations
+C. Gielen
+
+Contents
+1 Analysis of Neural Excitability and Oscillations 2
+1.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.2 Models for Excitable Cells and Networks . . . . . . . . . . . . . . . . . . . 2
+1.3 The Fitzhugh-Nagumomodel . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4 Stability of the equilibrium points. . . . . . . . . . . . . . . . . . . . . . . 4
+1.5 The Geometry of Excitability . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.6 Oscillations Emerging with Nonzero Frequency . . . . . . . . . . . . . . . . 9
+1.7 Oscillations Emerging with Zero Frequency . . . . . . . . . . . . . . . . . . 14
+1.8 More Bistability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+1.9 Phase-Resetting and Phase-Locking of oscillators . . . . . . . . . . . . . . 20
+1.9.1 Phase Response Curves . . . . . . . . . . . . . . . . . . . . . . . . . 20
+1.9.2 Averaging andWeak Coupling . . . . . . . . . . . . . . . . . . . . . 28
+
+Population coding : efficiency and interpretation of neuronal activity
+C. Gielen
+
+Contents
+1 Introduction 3
+2 Mathematics of (un)biased estimators and their variance 4
+2.1 Basic concepts from Information Theory . . . . . . . . . . . . . . . . . . . 4
+2.1.1 Entropy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.1.2 Mutual information . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2 Maximum Likelihood and Maximum A Posteriori Estimators . . . . . . . . 7
+2.3 Fisher Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.4 Mutual information and Fisher Information . . . . . . . . . . . . . . . . . 10
+3 Probabilistic interpretation of population codes. 11
+4 Models for population codes 14
+4.1 Simple version of Population Coding . . . . . . . . . . . . . . . . . . . . . 14
+4.2 Poisson model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+4.3 Optimum Linear Estimator (OLE) . . . . . . . . . . . . . . . . . . . . . . 20
+5 Overlap of receptive fields and correlated noise in neural responses 21
+5.1 Optimal receptive fields: broad or narrow ? . . . . . . . . . . . . . . . . . 21
+5.2 The effect of correlated noise on the information content of neuronal activity 23
+6 Transformation of neural activity by the brain. 26
+7 Neurobiological data on neuronal population coding 27
+7.1 Neuronal population coding in the auditory nerve . . . . . . . . . . . . . . 27
+7.2 Neuronal population coding of movement direction. . . . . . . . . . . . . . 29
+8 Discussion 30
+
+Topologically Ordered Neural Networks
+C. Gielen
+
+Contents
+1 The Brain and Topologically Ordered Maps 2
+2 Modeling the Self-Organizing Process 3
+3 The Self-Organizing Map (SOM) 5
+4 Physiological Interpretation of the SOM 10
+5 Dynamic neural fields 12
